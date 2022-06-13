@@ -7,6 +7,13 @@
 
 ## What
 
-- View/Create/Update/Delete configurations.
+- View/Create/Update/Delete OSGi configurations.
+
+## See Also
+
+- [Status > Configurations](status-Configurations.md)
+- [OSGi > OSGi Installer](osgi-installer.md)
+- [crx-quickstart/launchpad/config](/crx-quickstart/launchpad/config.md)
+- [crx-quickstart/install](/crx-quickstart/install.md)
 
 
