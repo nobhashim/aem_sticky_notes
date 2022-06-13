@@ -12,7 +12,7 @@
 ## See Also
 
 - [Status > OSGi Installer](status-osgi-installer.md)
-- [OSGi > OSGi Installer](osgi-installer.md)
+- [OSGi > Configuration](configMgr.md)
 - [crx-quickstart/launchpad/config](/crx-quickstart/launchpad/config.md)
 - [crx-quickstart/install](/crx-quickstart/install.md)
 
