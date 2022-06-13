@@ -19,5 +19,5 @@
 
 ## See Also
 
-- [OSGi > OSGi Installer](/jcr_root/system/console/osgi-installer.md)
+- [OSGi > OSGi Installer](/localhost/system/console/osgi-installer.md)
 

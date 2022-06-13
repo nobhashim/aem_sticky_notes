@@ -16,6 +16,6 @@
 
 ## See Also
 
-- [OSGi > Configuration](/jcr_root/system/console/configMgr.md)
-- [OSGi > OSGi Installer](/jcr_root/system/console/osgi-installer.md)
+- [OSGi > Configuration](/localhost/system/console/configMgr.md)
+- [OSGi > OSGi Installer](/localhost/system/console/osgi-installer.md)
 
