@@ -1,4 +1,4 @@
-#segmentstore folder
+# segmentstore folder
 
 ## Where
 

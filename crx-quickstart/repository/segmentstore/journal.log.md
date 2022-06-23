@@ -1,4 +1,4 @@
-#jounral.log
+# jounral.log
 
 ## Where
 

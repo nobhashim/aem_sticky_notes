@@ -1,4 +1,4 @@
-#config folder
+# config folder
 
 ## Where
 

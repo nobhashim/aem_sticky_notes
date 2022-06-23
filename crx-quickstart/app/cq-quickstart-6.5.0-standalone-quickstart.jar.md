@@ -1,4 +1,4 @@
-#cq-quickstart-6.5.0-standalone-quickstart.jar
+# cq-quickstart-6.5.0-standalone-quickstart.jar
 
 ## Where
 

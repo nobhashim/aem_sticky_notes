@@ -1,4 +1,4 @@
-#start script
+# start script
 
 ## Where
 

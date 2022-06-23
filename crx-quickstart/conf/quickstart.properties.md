@@ -1,4 +1,4 @@
-#quickstart.properties
+# quickstart.properties
 
 ## Where
 
