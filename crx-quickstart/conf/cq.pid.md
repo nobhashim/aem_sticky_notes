@@ -16,5 +16,5 @@
 ## See Also
 
 - [/bin/start](/crx-quickstart/bin/start.md)
-- [/bin/stop](crx-quickstart/bin/stop.md)
+- [/bin/stop](/crx-quickstart/bin/stop.md)
 

@@ -15,6 +15,6 @@
 
 ## See Also
 
-- [/bin/start](crx-quickstart/bin/start.md)
+- [/bin/start](/crx-quickstart/bin/start.md)
 - [/conf/cq.pid](/crx-quickstart/conf/cq.pid.md)
 

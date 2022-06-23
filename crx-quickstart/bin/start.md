@@ -16,5 +16,5 @@
 ## See Also
 
 - [/app/cq-quickstart-6.5.0-standalone-quickstart.jar](/crx-quickstart/app/cq-quickstart-6.5.0-standalone-quickstart.jar.md)
-- [/bin/stop](crx-quickstart/bin/stop.md)
+- [/bin/stop](/crx-quickstart/bin/stop.md)
 - [/conf/cq.pid](/crx-quickstart/conf/cq.pid.md)

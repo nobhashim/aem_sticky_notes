@@ -34,5 +34,5 @@ usage: org.apache.sling.launchpad.app.Main [ start | stop | status ] [ -j adr ] 
 
 ## See Also
 
-- [bin/start](/crx-quickstart/bin/start)
+- [bin/start](/crx-quickstart/bin/start.md)
 
