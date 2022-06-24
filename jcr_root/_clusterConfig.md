@@ -19,7 +19,7 @@
 
 ```
 $ java -jar oak-run.jar resetclusterid crx-quickstart/repository/segmentstore
-``
+```
 
 ## References
 
