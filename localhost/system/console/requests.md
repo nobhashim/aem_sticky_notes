@@ -1,7 +1,7 @@
 # Recent requests
 
 - OSGi console > Sling > Recent Requests
-- http://server:port/requests
+- http://server:port/system/console/requests
 
 ## What 
 
