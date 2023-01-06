@@ -14,4 +14,4 @@
 ## See Also
 
 - [Status > Product Information](status-productinfo.md)
-- [License](../granite/license/productinfo.md)
+- [License](../granite/license/index.html.md)

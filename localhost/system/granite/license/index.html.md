@@ -10,8 +10,8 @@
   - Type Customer Name and License Key then Register.
 - When AEM starts without the license file, this page is shown.
 - Once the license file is placed, this page redirects to the product information page.
-  http://server:port/system/console/productinfo
+  - http://server:port/system/console/productinfo
 
 ## See Also
 
-- [License](../../console/productinfo.md)
+- [Product Information](../../console/productinfo.md)
